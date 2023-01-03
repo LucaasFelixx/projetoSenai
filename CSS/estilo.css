@@ -1,0 +1,28 @@
+body {
+    background-color: #023373;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+.letra {
+    padding-top: 15px;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #7380A2;
+    padding: 15px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+div {
+    margin-top: 15px;
+}
